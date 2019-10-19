@@ -1,5 +1,4 @@
-describe (using_times) do 
-  
+describe (using_times) 
   end 
 end
 
