@@ -1,7 +1,6 @@
-def using_times
-	#your code here
+usi
+  puts "Penguins like to jump off icebergs!"
 end
-
 
 
 
